@@ -1,6 +1,6 @@
 import type { Diagram, Viewport } from '@/types/diagram'
 
-export const STORAGE_KEY = 'archdraw:diagram'
+export const STORAGE_KEY = 'dotjungle:diagram'
 
 // ── Save ──────────────────────────────────────────────────────────────────────
 

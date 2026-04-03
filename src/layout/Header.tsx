@@ -36,7 +36,7 @@ export default function Header({
                     </svg>
                 </div>
                 <span className="text-[13px] font-semibold tracking-tight text-zinc-100">
-                    Archdraw
+                    DotJungle
                 </span>
                 <span className="text-[10px] font-medium text-zinc-600 bg-zinc-800 px-1.5 py-0.5 rounded tracking-wide uppercase">
                     Beta
